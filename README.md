@@ -1,7 +1,5 @@
 # MacNest Homebrew Tap
 
-> 发布准备中：应用 Release 尚未上传，以下安装命令暂不可用。
-
 ```sh
 brew tap drugnotes/tap
 brew install --cask drugnotes/tap/macnest
